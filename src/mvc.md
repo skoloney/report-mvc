@@ -19,7 +19,7 @@
 
 ### И это не все!
 
-<img src="img/mv-star-2.jpg" />
+<img src="img/mv-star.jpg" />
 
 
 
@@ -162,7 +162,7 @@ class TodoUI {
 
 ### Шаг 4: Divide and Conquer-2
 
-<img src="img/mvc-step-2.png" />
+<img src="img/mvc-step-4.png" />
 
 
 
