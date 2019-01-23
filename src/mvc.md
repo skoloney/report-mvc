@@ -39,7 +39,7 @@
 
 
 ### Приложение без архитектуры
-<img src="/img/spaghetti.jpg" />
+<img src="img/spaghetti.jpg" />
 
 
 
@@ -143,7 +143,7 @@ class TodoUI {
 
 ### Шаг 3. Low Coupling-2
 
-<img src="img/even-lower.jpg" />
+<img src="img/even-lower.jpg" style="max-width: 70%;" />
 
 
 
@@ -218,6 +218,6 @@ class TodoUI {
 
  - [Habr: Охота на мифический MVC - 1](https://habr.com/ru/post/321050/)
  - [Habr: Охота на мифический MVC - 2](https://habr.com/ru/post/322700/)
- - Ссылка на доклад:
+ - [Доклад](https://github.com/skoloney/report-mvc)
 
 <img src="img/link-to-report.svg" style="width: 25%;" />
